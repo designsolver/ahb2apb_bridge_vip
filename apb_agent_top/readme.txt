@@ -1,1 +1,2 @@
-apb agent
+#apb agent
+*uses a slave sequence
